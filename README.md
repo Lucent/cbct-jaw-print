@@ -2,6 +2,8 @@
 
 A dental cone-beam CT to a life-size 3D print of both jaws: the bone in wood-coloured filament, every tooth in white, printed in its socket and snapped out, on a black hinged stand that opens on M4 screws. The bone is the scan's real surface, unidealised, ending where the scan ends. An AI model separates the teeth; crowns follow the scan's edges, roots the model's outline.
 
+<img src="docs/print.jpg" alt="Both jaws printed in wood-coloured and white PLA, teeth in their sockets" width="480">
+
 Not a medical device: for display and education, not diagnosis, treatment planning or surgical guides.
 
 ## Outputs (`out/`)

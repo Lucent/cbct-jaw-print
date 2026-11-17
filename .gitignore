@@ -10,4 +10,5 @@
 !/reproduce.sh
 !/scripts/
 !/checks/
+!/docs/
 __pycache__/
