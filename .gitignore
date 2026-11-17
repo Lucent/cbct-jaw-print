@@ -1,0 +1,13 @@
+# Allow-list: scans, labels and everything built from them are medical data and stay out.
+/*
+!/.gitignore
+!/README.md
+!/LICENSE
+!/requirements.txt
+!/*.py
+!/build.sh
+!/jaws.sh
+!/reproduce.sh
+!/scripts/
+!/checks/
+__pycache__/
